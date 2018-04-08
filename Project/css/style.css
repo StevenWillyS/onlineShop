@@ -1,0 +1,24 @@
+.askingthem-navbar{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	background-color: white;
+}
+
+	.askingthem-navbar .navbar-nav>.active>a{
+		background:#287179;
+		color: white;
+		margin-left: 100px;
+	}
+
+	.askingthem-navbar .askingthem-cart{
+		padding-left: 20px;
+		border-left:1px solid black;
+	}
+	.askingthem-navbar .askingthem-form-btn{
+		margin-right: 12px;
+	}
+	.askingthem-navbar .askingthem-btn-color{
+		background: #287179;
+		color:white;
+		border-radius: 3px;
+	}
